@@ -1,0 +1,8 @@
+"George Washington"
+"Abraham Lincoln"
+"Theodore Roosevelt"
+"Franklin D. Roosevelt"
+"Dwight Eisenhower"
+"Robert Kennedy"
+"Jimmy Carter"
+"Barack Obama"
